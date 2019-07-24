@@ -5,7 +5,6 @@ E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\bin\Debug\netco
 E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\bin\Debug\netcoreapp2.2\InsuranceClientPortal.pdb
 E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\bin\Debug\netcoreapp2.2\InsuranceClientPortal.Views.dll
 E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\bin\Debug\netcoreapp2.2\InsuranceClientPortal.Views.pdb
-E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.csprojAssemblyReference.cache
 E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.csproj.CoreCompileInputs.cache
 E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.RazorAssemblyInfo.cache
 E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.RazorAssemblyInfo.cs
