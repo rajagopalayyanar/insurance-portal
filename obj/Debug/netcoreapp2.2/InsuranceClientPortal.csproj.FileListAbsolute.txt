@@ -28,3 +28,4 @@ E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netco
 E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.dll
 E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.pdb
 E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.csproj.CopyComplete
+E:\FSDTraining\Azure\InsuranceClientPortal\InsuranceClientPortal\obj\Debug\netcoreapp2.2\InsuranceClientPortal.csprojAssemblyReference.cache
